@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/drawable-v24/bgme.xml" value="0.2495" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/drawable-v24/bgreview.xml" value="0.2885" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/drawable-v24/dialog_bg.xml" value="0.2735" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/drawable-v24/editbg.xml" value="0.2075" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/activity_basic_questions.xml" value="0.3578125" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/activity_details.xml" value="0.371875" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/activity_forgot.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/activity_home.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/activity_post.xml" value="0.371875" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/activity_preference.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/activity_reviews.xml" value="0.3578125" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/activity_sign_in.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/bookmark_fragment.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/bookmarks.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/card.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/content_basic_questions.xml" value="0.33" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/content_main.xml" value="0.18085106382978725" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/dialog.xml" value="0.371875" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/frag_profile.xml" value="0.18085106382978725" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/frag_recom.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/frag_trending.xml" value="0.1671195652173913" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/frag_watchlist.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/home_fragment.xml" value="0.30512820512820515" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/homeui.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/movies.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/recommend.xml" value="0.25" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/recommendations.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/recommmendationsUI.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/recommmendationsui.xml" value="0.25" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/review.xml" value="0.371875" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/reviews.xml" value="0.33" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/trending.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/layout/youtubeplayer.xml" value="0.371875" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/menu/menu_basic_questions.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/menu/menu_main.xml" value="0.3416666666666667" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MovieRecommendation/app/src/main/res/menu/navigation.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
